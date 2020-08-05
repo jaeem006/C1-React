@@ -103,8 +103,6 @@ Esto se puede ver como una limitante a la hora de programar en JavaScript pues p
 
 - [**`EJEMPLO 5`**](ejemplo-04/README.md) -->
 
----
-
 ### 3. Actividad Final :hammer:
 
 Aplica lo todo lo que aprendiste durante la sesión en esta actividad. 
