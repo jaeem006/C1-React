@@ -22,7 +22,10 @@ Crear un proyecto usando <b>Webpack</b> con las siguientes funcionalidades:
 2. Un *output* con una carpeta `dist` y el nombre del *bundle* de tu elección.
 3. Que sea capaz de procesar archivos *sass*, *scss* y *css*.
 4. Que pueda procesar imágenes (*.png*,*.jpg*,*.jpeg*,*.gif*).
-5. Capaz de procesar distintas versiones de JavaScript.
+5. Que incluya un fondo personalizado a tu gusto.
+6. Con un titulo que se muestre en el sitio web.
+7. Que incluya algunos estilos aunque sean muy básicos.
+8. Los últimos 3 puntos deben agregarse de directamente en el archivo `index.js` y ser generados por <b>Webpack</b>
 
 ¡Buena Suerte!
 

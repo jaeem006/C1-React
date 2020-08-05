@@ -84,14 +84,34 @@ Vamos a trabajar con los mismos archivos que en el ejemplo anterior.
 
     Si se quisiera especificar como procesar otro formato de archivo se tendría que agregar una nueva regla que defina estos mismos campos (`test` y `use`) dentro del mismo arreglo y en el caso de que el *loader* no corresponda al formato de los archivos o no esté instalado la aplicación regresará un error.
 
+6. Crear una carpeta llamada `dist` y dentro un archivo con nombre `index.html`.
 
-6. Ahora vamos a correr el proyecto y dejar que <b>Webpack</b> haga su magia.
+    ```bash
+    touch dist/index.html
+    ```
+  agregar lo siguiente al archivo `index.html`
+
+    ```html
+    <!DOCTYPE html>
+    <html lang="en">
+      <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Document</title>
+      </head>
+      <body>
+        <script src="bundle.js"></script>
+      </body>
+    </html>
+    ```
+7. Ahora vamos a correr el proyecto y dejar que <b>Webpack</b> haga su magia.
 
     ```bash
     npm run build
     ```
 
-7. Dentro de la carpeta `dist` se creo el archivo `index.html` este archivo es nuestra aplicación web generada por <b>Webpack</b> a partir de los módulos de JavaScript que definimos. Lo abrimos en un navegador y vemos que en efecto cargo los estilos como esperábamos.
+8. Abrir el archivo `index.html` en un navegador.
 
 [`Anterior`](../Readme.md#loaders) | [`Siguiente`](../ejemplo-03/Readme.md)
 

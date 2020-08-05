@@ -21,7 +21,7 @@
 2. Inicializa un proyecto usando `npm`
 
     ```bash
-    npm init proyecto
+    npm init 
     ```
 
 3. Configura el proyecto aceptando las elecciones por default.
@@ -32,7 +32,7 @@
    ```
 5. Crea un archivo con el nombre `index.js` dentro de `src`
     ```bash
-    touch src\index.js
+    touch src/index.js
     ```
 6. Crea un archivo con el nombre `webpack.config.js` este será el archivo de configuración de <b>Webpack</b>
     ```bash
@@ -50,7 +50,9 @@
     ```
 Recordemos que la bandera `--save-dev` sirve para que estas dependencias se agreguen a la configuración del proyecto en el archivo `package.json` y sean cargadas automáticamente al hacer la instalación por default de `npm`.
 
-8. Ahora solo resta configurar <b>Webpack</b> para eso modificaremos el archivo `webpack.config.js` que acabamos de crear agregándole lo siguiente:
+8. Verificar el archivo `package.json` el objeto `scripts` debe contener el siguiente atributo `"build": "webpack"` de no ser así agregarlo.
+
+9. Ahora solo resta configurar <b>Webpack</b> para eso modificaremos el archivo `webpack.config.js` que acabamos de crear agregándole lo siguiente:
 
     ```javascript
     const path = require('path')

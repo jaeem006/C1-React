@@ -80,18 +80,28 @@ Por omisión Webpack procesa archivos JavaScript y JSON, por lo que no es necesa
 - [**`EJEMPLO 2`**](ejemplo-02/Readme.md)
 - [**`EJEMPLO 3`**](ejemplo-03/Readme.md)
 
+---
+
+#### <ins>Plugin</ins>
+<img src="img/plugin.png" align="right"  width="350"> 
+
+
+Al igual que los *loaders*, los *plugins* se utilizan para agregar comportamiento a nuestra aplicación, son módulos ya desarrollados que basta con instalarlos para poderse utilizar. Sin embargo mientras los *loaders* son usados para transformar archivos de diferentes formatos en módulos que el navegador es capaz de interpretar en conjunto con los módulos de JavaScript para general el *bundle*, los *plugins* se pueden usar para realizar un mayor número de tares más generales como lo son optimizaciones de paquetes, inyección de variables, manejo de entornos entre muchas otras.
+
+La principal diferencia entre *loader* y *plugin* es que los últimos trabajan usualmente al nivel del *bundle*, es decir, se ejecutan al final del proceso de generación de este. Los *plugins* tienen mayor control sobre la aplicación que los *loaders*.
+
+- [**`EJEMPLO 4`**](ejemplo-04/Readme.md)
 
 ---
 
-#### <ins>Babel</ins>
+<!-- #### <ins>Babel</ins>
 <img src="img/logo-babel.jpg" align="right" width="300">
 
 Como cualquier lenguaje de programación JavaScript tiene también diferentes versión que varían entre ellas en diferentes aspectos. Resultaría muy complicado y poco eficiente que todos los navegadores fueran capaces de interpretar todas las versiones de JavasScript, este problema se soluciona con un estándar, es decir una versión que todos los navegadores entiendan. 
 
 Esto se puede ver como una limitante a la hora de programar en JavaScript pues para cierta aplicación el desarrollador podría estar interesado en ciertos features de alguna de las versiones que no sea la estándar, aquí es cuando Babel entra en el juego. Babel es un traductor entre versiones de JavaScript, nos permite traducir código de nuevas versiones a una versión que el navegador o Node.js entiendan.
 
-- [**`EJEMPLO 4`**](ejemplo-04/Readme.md)
-- [**`EJEMPLO 5`**](ejemplo-04/Readme.md)
+- [**`EJEMPLO 5`**](ejemplo-04/Readme.md) -->
 
 ---
 
