@@ -1,4 +1,4 @@
-[`Sesión 01`](../Readme.md) > `Ejemplo 2`
+[`Sesión 01`](../README.md) > `Ejemplo 2`
 
 ## Ejemplo 2: Loaders 101 
 
@@ -113,7 +113,7 @@ Vamos a trabajar con los mismos archivos que en el ejemplo anterior.
 
 8. Abrir el archivo `index.html` en un navegador.
 
-[`Anterior`](../Readme.md#loaders) | [`Siguiente`](../ejemplo-03/Readme.md)
+[`Anterior`](../README.md#loaders) | [`Siguiente`](../ejemplo-03/README.md)
 
 </div>
 

@@ -1,4 +1,4 @@
-[`Sesión 01`](../Readme.md) > `Ejemplo 3`
+[`Sesión 01`](../README.md) > `Ejemplo 3`
 
 ## Ejemplo 4: Plugins 101 
 
@@ -93,7 +93,7 @@ Vamos a trabajar con los mismos archivos que en el ejemplo anterior. Si se desea
 3. Observemos como en esta ocasión el archivo `index.html` fue generado automáticamente después de la construcción.
 
 
-[`Anterior`](../Readme.md) | [`Siguiente`](../Readme.md) 
+[`Anterior`](../README.md) | [`Siguiente`](../README.md) 
 
 </div>
 

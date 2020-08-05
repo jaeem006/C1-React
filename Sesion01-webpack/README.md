@@ -59,7 +59,7 @@ Webpack toma las dependencias de los módulos y genera un grafo con éstas lo qu
 Es necesario usar Node.js para poder utilizar webpack.
 
 
-- [**`EJEMPLO 1`**](ejemplo-01/Readme.md)
+- [**`EJEMPLO 1`**](ejemplo-01/README.md)
 
 ---
 
@@ -77,8 +77,8 @@ Ademas permite cargar imágenes como urls, convirtiéndolas en una cadena y agre
 Por omisión Webpack procesa archivos JavaScript y JSON, por lo que no es necesario instalar ningún loader especifico para eso. Sin embargo para cualquier otro formato de archivo si es necesario contar con un loader para convertirlos a módulos válidos que la aplicación sea capaz de interpretar.
 
 
-- [**`EJEMPLO 2`**](ejemplo-02/Readme.md)
-- [**`EJEMPLO 3`**](ejemplo-03/Readme.md)
+- [**`EJEMPLO 2`**](ejemplo-02/README.md)
+- [**`EJEMPLO 3`**](ejemplo-03/README.md)
 
 ---
 
@@ -90,7 +90,7 @@ Al igual que los *loaders*, los *plugins* se utilizan para agregar comportamient
 
 La principal diferencia entre *loader* y *plugin* es que los últimos trabajan usualmente al nivel del *bundle*, es decir, se ejecutan al final del proceso de generación de este. Los *plugins* tienen mayor control sobre la aplicación que los *loaders*.
 
-- [**`EJEMPLO 4`**](ejemplo-04/Readme.md)
+- [**`EJEMPLO 4`**](ejemplo-04/README.md)
 
 ---
 
@@ -101,7 +101,7 @@ Como cualquier lenguaje de programación JavaScript tiene también diferentes ve
 
 Esto se puede ver como una limitante a la hora de programar en JavaScript pues para cierta aplicación el desarrollador podría estar interesado en ciertos features de alguna de las versiones que no sea la estándar, aquí es cuando Babel entra en el juego. Babel es un traductor entre versiones de JavaScript, nos permite traducir código de nuevas versiones a una versión que el navegador o Node.js entiendan.
 
-- [**`EJEMPLO 5`**](ejemplo-04/Readme.md) -->
+- [**`EJEMPLO 5`**](ejemplo-04/README.md) -->
 
 ---
 
@@ -109,6 +109,6 @@ Esto se puede ver como una limitante a la hora de programar en JavaScript pues p
 
 Aplica lo todo lo que aprendiste durante la sesión en esta actividad. 
 
-- [**`Actividad Final sesión 1`**](actividad-final/Readme.md)
+- [**`Actividad Final sesión 1`**](actividad-final/README.md)
    
 

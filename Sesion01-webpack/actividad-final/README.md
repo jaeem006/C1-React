@@ -1,4 +1,4 @@
-[`Sesión 01`](../Readme.md) > `Actividad Final`
+[`Sesión 01`](../README.md) > `Actividad Final`
 
 ## Actividad Final
 
@@ -31,6 +31,6 @@ Crear un proyecto usando <b>Webpack</b> con las siguientes funcionalidades:
 
 <img src="../img/tenor.gif" width="300">
 
-[`Anterior`](../Readme.md) 
+[`Anterior`](../README.md) 
 
 </div>

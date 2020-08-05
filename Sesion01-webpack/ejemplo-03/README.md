@@ -1,4 +1,4 @@
-[`Sesión 01`](../Readme.md) > `Ejemplo 3`
+[`Sesión 01`](../README.md) > `Ejemplo 3`
 
 ## Ejemplo 3: Loaders 102 
 
@@ -94,7 +94,7 @@ Vamos a trabajar con los mismos archivos que en el ejemplo anterior. Si se desea
 
 La lista completa de los *loaders* disponibles se puede consultar en la siguiente <a href="https://webpack.js.org/loaders/">página</a>
 
-[`Anterior`](../ejemplo-02/Readme.md) | [`Siguiente`](../Readme.md)
+[`Anterior`](../ejemplo-02/README.md) | [`Siguiente`](../README.md)
 
 </div>
 

@@ -1,4 +1,4 @@
-[`Sesión 01`](../Readme.md) > `Ejemplo 1`
+[`Sesión 01`](../README.md) > `Ejemplo 1`
 
 ## Ejemplo 1: Estructurar la aplicación
 
@@ -75,7 +75,7 @@ Mientras que el atributo `output` indica el archivo de salida, es decir el archi
 
 Dentro de `output` tenemos a su vez dos atributos más `path` que va a definir la ruta en donde se encuentra el archivo y `filename`que es simplemente el nombre del archivo. En este ejemplo vamos a guardar el *bundle* en una carpeta `dist` con el nombre `bundle.js`.
 
-[`Anterior`](../Readme.md#webpack) | [`Siguiente`](../Readme.md#loaders)
+[`Anterior`](../README.md#webpack) | [`Siguiente`](../README.md#loaders)
 
 </div>
 
