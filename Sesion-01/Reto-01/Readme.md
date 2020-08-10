@@ -24,4 +24,4 @@
 <img src="./public/resultado.png" width="400">
 
 
-[`Atrás`](../Ejemplo-01)
+[`Atrás`](../Readme.md)
