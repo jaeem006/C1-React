@@ -32,5 +32,5 @@ Es recomendable que tengas los siguientes **conocimientos.**
 
 - [`Sesión 07 - Progressive web apps (PWA)`](Sesion-07/Readme.md)
 
-- [`Sesión 08 -  Material UI`](Sesion-08/Readme.md)
+<!-- - [`Sesión 08 -  Material UI`](Sesion-08/Readme.md) -->
 
