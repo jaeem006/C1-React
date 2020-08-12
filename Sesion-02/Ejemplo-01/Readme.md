@@ -1,18 +1,18 @@
-[`React Fundamentals`](../../README.md) > [`Sesión 02: Estado (state) y Propiedades (props)`](../Readme.md) > `Ejemplo 1`
+[`React Fundamentals`](../../README.md) > [`Sesión 03: Estado (state) y Propiedades (props)`](../Readme.md) > `Ejemplo 1`
 
 ## Patricio
 
 ### OBJETIVO 
-- Usar componente stateful (clase).
-- Convertir de stateless (funcional) a stateful (clase).
+- Usar componente stateful.
+- Convertir de stateless a stateful.
 - Cómo declarar y usar el estado en componente stateful.
 
 #### REQUISITOS
-- Haber completado el [Ejemplo-02](../../Sesion-01/Ejemplo-02) de la Sesion-01.
+- Haber completado el [Ejemplo-02](../../Sesion-01/Ejemplo-02) de la Sesion-02.
 
 #### DESARROLLO
 
-1. Abrir nuestro proyecto "Luz Mercurial" del [Ejemplo-02](../../Sesion-01/Ejemplo-02) de la Sesion-01.
+1. Abrir nuestro proyecto "Luz Mercurial" del [Ejemplo-02](../../Sesion-01/Ejemplo-02) de la Sesion-02.
 
 2. Ya tenemos nuestros focos con luces naranjas, lo que vamos a hacer es definir el color de las luces con el estado de React.
 
@@ -128,4 +128,4 @@ export default LuzMercurial;
 10. Resultado
 <img src="./public/resultado.png" width="400">
 
-[`Siguiente: Reto-01`](../Reto-01)
+[`Siguiente: Reto-01`](../Reto-01/Readme.md)

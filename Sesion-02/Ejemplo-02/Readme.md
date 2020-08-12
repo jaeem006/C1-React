@@ -214,4 +214,4 @@ export default LuzMercurial;
 20. Resultado:
 <img src="./public/resultado.png" width="400">
 
-[`Siguiente: Reto-02`](../Reto-02)
+[`Siguiente: Reto-02`](../Reto-02/Readme.md)
