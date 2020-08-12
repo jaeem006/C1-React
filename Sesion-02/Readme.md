@@ -110,9 +110,13 @@ Los componentes *Stateful* son aquellos que tienen estado, siempre se trata de c
 
 El estado es representado por un objeto y puede modificarse en el momento que sea necesario.
 
+Este tipo de componentes son los mas utilizados. Las principales características de este tipo de componentes es que utilizan la encapsulación en clases, tienen un estado que definen, y actualizan y cada cambio tanto en props como en estado llaman al método render.
+
 #### Stateless
 
 Son aquellos componentes que no hacen uso del estado. Todos los componentes funcionales son *Stateless* pero también podemos definir componentes de clase que sean de este tipo.
+
+Este tipo de componentes se definen como funciones en vanilla js y no tienen ni trabajan con estado. Los únicos datos con los que trabajan este tipo de componentes es con las props recibidas, además no permite trabajar con sobrescribir los métodos de su ciclo de vida. Las ventajas de este tipo de componentes es que son sencillos de escribir, fácilmente testeables y mejoran el rendimiento.
 
 + [`Ejemplo 02: Gracias Abuelo`](Ejemplo-02/Readme.md)
 + [`Reto 02: Cada quien su mantel`](Reto-02/Readme.md)
@@ -126,6 +130,8 @@ Son aquellos componentes que no hacen uso del estado. Todos los componentes func
 - Si el estado es indispensable es necesario usar componentes de clase.
 - Si se busca transmisión de datos entre componentes sencillos se recomienda el uso de componentes funcionales.
 - Los componentes funcionales tienen un rendereo más rápido en la mayoría de los casos.
+
+Para entender mejor las diferencias entre las clasificaciones de componentes es recomendado este <a href="https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc">artículo</a> en el cual se expresan las diferencias y ventajas de cada uno con mayor detalle.
 
 
 <!-- ## 🛡 Postwork
