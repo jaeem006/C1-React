@@ -16,7 +16,7 @@
 
 2. Ya tenemos nuestros focos con luces naranjas, lo que vamos a hacer es definir el color de las luces con el estado de React.
 
-3. Abrimos nuestro archivo `Luz.js` y como primer paso tenemos que cambiar el tipo de componente a que sea stateful (componente clase).
+3. Abrimos nuestro archivo `Luz.js` y como primer paso tenemos que cambiar el tipo de componente a que sea un componente clase.
 
 4. Cambiamos la linea de declaración de esto: `const Luz = () => {` a esto `class Luz extends React.Component {`; no va a funcionar porque todavia no terminamos.
 ```
@@ -100,7 +100,7 @@ export default Luz;
 
 8. Cuando vemos el resultado nos da alegría de saber que es casi tan hermoso como nosotros (paso obligatorio).
 
-9. Vamos a hacer lo mismo con `LuzMercurial.js`; convertirlo en componente stateful (clase), agregar el estado (state) con algún color y sobreescribirlo.
+9. Vamos a hacer lo mismo con `LuzMercurial.js`; convertirlo en componente de clase, agregar el estado (state) con algún color y sobreescribirlo.
 ```
 import React from 'react';
 

@@ -4,7 +4,7 @@
 
 ### OBJETIVO 
 - **Declaración** y **utilización de propiedades (props)** en los 2 tipos de componente.
-- **Buenas prácticas** de propiedades (librería prop-types).
+- **Buenas prácticas** de propiedades.
 
 #### REQUISITOS 
 - Completar el [Ejemplo-01](../Ejemplo-01)
