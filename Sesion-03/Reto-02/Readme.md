@@ -1,4 +1,4 @@
-[`React Fundamentals`](../../README.md) > [`Sesión 03: Estado (state) y Propiedades (props)`](../Readme.md) >[`Ejemplo-02`](../Ejemplo-02) > `Reto 2`
+[`React Fundamentals`](../../README.md) > [`Sesión 04: Ciclo de vida, setState, eventos y .map()`](../Readme.md) >[`Ejemplo-02`](../Ejemplo-02) > `Reto 2`
 
 ## Ciclos de vida viejos
 
