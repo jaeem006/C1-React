@@ -17,4 +17,4 @@
 3. Resultado:
 <img src="./public/resultado.png" width="400">
 
-[`Anterior`](../Readme.md)
+[`Siguiente: Home`](../Readme.md)

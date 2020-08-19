@@ -19,4 +19,4 @@
 4. Resultado:
 <img src="./public/resultado.gif">
 
-[`Anterior`](../Readme.md)
+[`Siguiente: Home`](../Readme.md)
