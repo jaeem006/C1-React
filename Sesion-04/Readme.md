@@ -41,8 +41,9 @@ Los Hooks resuelven una amplia variedad de problemas aparentemente desconectados
 
 + <b>Las clases son mas complicadas de usar, no sólo para los desarrolladores sino también para la máquina</b>, la curva de aprendizaje de clases es mucho mas grande que la de funciones, se tiene que entender el funcionamiento de los constructores, la palabra reservada `this`, el método `render()`, el manejo de los ciclos de vida, manejo de estado, etc. Por si no fuera poco el navegador tarda mas en interpretar, renderizar y actualizar componentes de clase respecto a los funcionales. <b>Los *hooks* te permiten usar más de las funciones de React sin clases sin sacrificar el espíritu práctico de React.</b>
 
-+ [`Ejemplo 01: Incrementando de nuevo`](Ejemplo-01/Readme.md)
-+ [`Reto 01: 3 botones`](Reto-01/Readme.md)
+[`Ejemplo 01: Incrementando de nuevo`](Ejemplo-01/Readme.md)
+
+[`Reto 01: 3 botones`](Reto-01/Readme.md)
 
 ---
 
@@ -69,8 +70,9 @@ En donde se declaran tres variables de estado.
 Usamos la sintaxis de destrucción de un arreglo para dar nombres a las variables de estado declaradas con `useState` así como a las funciones de actualización.
 
 
-+ [`Ejemplo 02: Patricio evoluciona`](Ejemplo-02/Readme.md)
-+ [`Reto 02: ¡Pero quiere otro!`](Reto-02/Readme.md)
+[`Ejemplo 02: Patricio evoluciona`](Ejemplo-02/Readme.md)
+
+[`Reto 02: ¡Pero quiere otro!`](Reto-02/Readme.md)
 
 ---
 
@@ -87,8 +89,9 @@ Con el uso de *hooks* las variables de estado son al mismo tiempo variables del 
 
 Mostrando una vez mas la principal ventaja del uso de *hooks* código mas compacto y legible.
 
-+ [`Ejemplo 03: Escuela`](Ejemplo-03/Readme.md)
-+ [`Reto 03: ¿Cómo te llamas?`](Reto-03/Readme.md)
+[`Ejemplo 03: Escuela`](Ejemplo-03/Readme.md)
+
+[`Reto 03: ¿Cómo te llamas?`](Reto-03/Readme.md)
 
 
 React proporciona algunos Hooks incorporados como `useState` o `useEffect`. También puedes crear tus propios Hooks para reutilizar el comportamiento con estado entre diferentes componentes. Primero veremos los Hooks incorporados.
