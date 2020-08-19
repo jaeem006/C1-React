@@ -84,11 +84,12 @@ Con el uso de *hooks* las variables de estado son al mismo tiempo variables del 
 
 	<p>You clicked {count} times</p>
 
+
+Mostrando una vez mas la principal ventaja del uso de *hooks* código mas compacto y legible.
+
 + [`Ejemplo 03: Escuela`](Ejemplo-03/Readme.md)
 + [`Reto 03: ¿Cómo te llamas?`](Reto-03/Readme.md)
 
-
-Mostrando una vez mas la principal ventaja del uso de *hooks* código mas compacto y legible.
 
 React proporciona algunos Hooks incorporados como `useState` o `useEffect`. También puedes crear tus propios Hooks para reutilizar el comportamiento con estado entre diferentes componentes. Primero veremos los Hooks incorporados.
 
