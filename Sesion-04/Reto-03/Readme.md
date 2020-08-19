@@ -1,4 +1,4 @@
-[`React Fundamentals`](../../README.md) > [`Sesión 02: Sesión 04: Hooks y useState`](../Readme.md) >[`Ejemplo-03`](../Ejemplo-03) > `Reto 3`
+[`React Fundamentals`](../../README.md) > [`Sesión 05: Hooks y useState`](../Readme.md) >[`Ejemplo-03`](../Ejemplo-03) > `Reto 3`
 
 ## ¿Cómo te llamas?
 
@@ -40,3 +40,5 @@ const [state, setState] = React.useState({
 
 8. Resultado:
 <img src="./public/resultado.png" width="400">
+
+[`Anterior`](../Readme.md)

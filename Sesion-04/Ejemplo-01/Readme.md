@@ -1,4 +1,4 @@
-[`React Fundamentals`](../../README.md) > [`Sesión 04: Hooks y useState`](../Readme.md) > `Ejemplo 1`
+[`React Fundamentals`](../../README.md) > [`Sesión 05: Hooks y useState`](../Readme.md) > `Ejemplo 1`
 
 ## Incrementando de nuevo
 
@@ -10,7 +10,7 @@
 
 #### DESARROLLO
 
-1. Vamos a rehacer el [Ejemplo-01](../../Sesion-03/Ejemplo-01) de la Sesion-03 pero ahora usando hooks.
+1. Vamos a rehacer el [Ejemplo-01](../../Sesion-03/Ejemplo-01) de la Sesion 4 pero ahora usando hooks.
 
 2. Comenzar nuevo proyecto de React con el comando `npx create-react-app ejemplo1`.
 
@@ -156,4 +156,4 @@ export default App;
 
 -------
 
-[`Siguiente: Reto-01`](../Reto-01)
+[`Siguiente: Reto-01`](../Reto-01/Readme.md)

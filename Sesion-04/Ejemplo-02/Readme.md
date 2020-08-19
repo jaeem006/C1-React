@@ -1,4 +1,4 @@
-[`React Fundamentals`](../../README.md) > [`Sesión 04: Hooks y useState`](../Readme.md) > `Ejemplo 2`
+[`React Fundamentals`](../../README.md) > [`Sesión 05: Hooks y useState`](../Readme.md) > `Ejemplo 2`
 
 ## Patricio evoluciona
 
@@ -10,7 +10,7 @@
 
 #### DESARROLLO
 
-1. Abrir nuestro proyecto "Patricio" del [Ejemplo-01](../../Sesion-02/Ejemplo-01) de la Sesion-02.
+1. Abrir nuestro proyecto "Patricio" del [Ejemplo-01](../../Sesion-02/Ejemplo-01) de la Sesion-03.
 
 2. Ya tenemos nuestros focos bien hermosos usando el estado de la manera vieja, vamos a convertir nuestros componentes de stateful (clase) a hooks.
 
@@ -154,4 +154,4 @@ export default LuzMercurial;
 
 -------
 
-[`Siguiente: Reto-02`](../Reto-02)
+[`Siguiente: Reto-02`](../Reto-02/Readme.md)

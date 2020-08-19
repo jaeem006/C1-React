@@ -1,4 +1,4 @@
-[`React Fundamentals`](../../README.md) > [`Sesión 04: Hooks y useState`](../Readme.md) > `Ejemplo 3`
+[`React Fundamentals`](../../README.md) > [`Sesión 05: Hooks y useState`](../Readme.md) > `Ejemplo 3`
 
 ## Escuela
 
@@ -227,4 +227,4 @@ export default App;
 
 -------
 
-[`Siguiente: Reto-03`](../Reto-03)
+[`Siguiente: Reto-03`](../Reto-03/Readme.md)
