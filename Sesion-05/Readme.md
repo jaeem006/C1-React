@@ -104,9 +104,9 @@ En casos excepcionales, es posible que desees que un componente se oculte a sí 
 
 Ahora probemos estas tres formas de renderizado condicional. 
 
-[`Ejemplo 02: Simulando llamadas condicionales`](Ejemplo-01/Readme.md)
+[`Ejemplo 02: Simulando llamadas condicionales`](Ejemplo-02/Readme.md)
 
-[`Reto 02: ¿Niño o niña?`](Reto-01/Readme.md)
+[`Reto 02: ¿Niño o niña?`](Reto-02/Readme.md)
 
 <!-- #### ORGANIZACION DE LA CLASE
 - componentDidMount a hook.
