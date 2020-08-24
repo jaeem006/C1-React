@@ -1,4 +1,4 @@
-[`React Fundamentals`](../../README.md) > [`Sesión 05: Hooks y useEffect`](../Readme.md) > `Ejemplo 1`
+[`React Fundamentals`](../../README.md) > [`Sesión 06: Hooks y useEffect`](../Readme.md) > `Ejemplo 1`
 
 ## Capitán Garfio
 
@@ -6,11 +6,11 @@
 - Convertir los 3 ciclos de vida a hooks.
 
 #### REQUISITOS
-- Haber completado el [Ejemplo-02](../../Sesion-03/Ejemplo-02) de la Sesion-03.
+- Haber completado el [Ejemplo-02](../../Sesion-03/Ejemplo-02) de la Sesion-04.
 
 #### DESARROLLO
 
-1. Abrir nuestro proyecto "Complejidad, bienvenida" del [Ejemplo-02](../../Sesion-03/Ejemplo-02) de la Sesion-03.
+1. Abrir nuestro proyecto "Complejidad, bienvenida" del [Ejemplo-02](../../Sesion-03/Ejemplo-02) de la Sesion-04.
 
 2. Vamos a abrir primero `Nombre.js` y lo modificaremos para que ahora use los hooks de useEffect.
 
@@ -144,7 +144,7 @@ const Nombre = (props) => {
 };
 ```
 
-9. Ahora abre la consola del navegador y juega con la app; escribe, agrega, elimina, hazla tuya.
+9. Ahora abre la consola del navegador y juega con la app; escribe, agrega, elimina, etc.
 
 10. Cada vez que cualquier estado es modificado (en este caso en `App.js`), el `useEffect` se ejecuta.
 
@@ -206,9 +206,9 @@ Nombre.propTypes = {
 export default Nombre;
 ```
 
-19. Ahora si te fijas en la consola del navegador, vas a ver una alerta parecida a `React Hook React.useEffect has a missing dependency: 'props.nombre'`. Esto pasa porque dentro del `useEffect` estamos usando `props.nombre` y quiere que se lo pasemos como parámetro dentro del arreglo `[]`. Para este punto ya debes de saber que pasa si lo agregamos ahí adentro. Sí, ese `useEffect` ahora reaccionaría cuando `props.nombre` cambie, que en este caso nunca va a pasar. PEEEERO, para evitarnos futuros errores a nosotros mismos o a otros desarrolladores, vamos a dejar las cosas bien hechas. Por que así somos nosotros, a toda mdr (madera).
+19. Ahora si te fijas en la consola del navegador, vas a ver una alerta parecida a `React Hook React.useEffect has a missing dependency: 'props.nombre'`. Esto pasa porque dentro del `useEffect` estamos usando `props.nombre` y quiere que se lo pasemos como parámetro dentro del arreglo `[]`. Para este punto ya debes de saber que pasa si lo agregamos ahí adentro. Sí, ese `useEffect` ahora reaccionaría cuando `props.nombre` cambie, que en este caso nunca va a pasar. PEEEERO, para evitarnos futuros errores a nosotros mismos o a otros desarrolladores, vamos a dejar las cosas bien hechas.
 
-20. Por la misma razón de la madera, también debemos evitar tener alertas en la consola del navegador. Aquí es cuando te recomiendo seguir las [buenas prácticas para `useEffect`](../../BuenasPracticas/useEffect/Readme.md). Esto es opcional pero recomendado.
+20. Por la misma razón, también debemos evitar tener alertas en la consola del navegador. Aquí es cuando te recomiendo seguir las [buenas prácticas para `useEffect`](../../BuenasPracticas/useEffect/Readme.md). Esto es opcional pero recomendado.
 
 21. Para este caso se siguió la recomendación de hacerlo por ciclo de vida solamente para mostrarte que podemos tener varios `useEffect`. Si lo hiciste de otra manera esta bien.
 ```
@@ -358,4 +358,4 @@ React.useEffect(didUpdate, [state.listaNombres]);
 
 -------
 
-[`Siguiente: Reto-01`](../Reto-01)
+[`Siguiente: Reto-01`](../Reto-01/Readme.md)

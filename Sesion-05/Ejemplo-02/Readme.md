@@ -1,4 +1,4 @@
-[`React Fundamentals`](../../README.md) > [`Sesión 05: Hooks y useEffect`](../Readme.md) > `Ejemplo 2`
+[`React Fundamentals`](../../README.md) > [`Sesión 06: Hooks y useEffect`](../Readme.md) > `Ejemplo 2`
 
 ## Simulando llamadas condicionales
 
@@ -455,4 +455,4 @@ export default Usuarios;
 32. Resultado:
 <img src="./public/resultado.png" width="400">
 
-[`Siguiente: Reto-02`](../Reto-02)
+[`Siguiente: Reto-02`](../Reto-02/Readme.md)

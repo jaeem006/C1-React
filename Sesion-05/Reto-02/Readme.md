@@ -1,4 +1,4 @@
-[`React Fundamentals`](../../README.md) > [`Sesión 05: Hooks y useEffect`](../Readme.md) >[`Ejemplo-01`](../Ejemplo-02) > `Reto 2`
+[`React Fundamentals`](../../README.md) > [`Sesión 06: Hooks y useEffect`](../Readme.md) >[`Ejemplo-01`](../Ejemplo-02) > `Reto 2`
 
 ## ¿Niño o niña?
 
@@ -20,3 +20,5 @@
 
 5. Resultado
 <img src="./public/resultado.gif">
+
+[`Siguiente: Home`](../Readme.md)
