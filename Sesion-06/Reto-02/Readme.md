@@ -1,4 +1,4 @@
-[`React Fundamentals`](../../README.md) > [`Sesión 06: Rutas con react router dom`](../Readme.md) >[`Ejemplo-02`](../Ejemplo-02) > `Reto 1`
+[`React Fundamentals`](../../README.md) > [`Sesión 07: Rutas con react router dom`](../Readme.md) >[`Ejemplo-02`](../Ejemplo-02) > `Reto 1`
 
 ## Buscando a Memo
 
@@ -36,3 +36,4 @@
 9. Avisar cuando es Memo usando el `useEffect`.
 <img src="./public/5.gif">
 
+[`Siguiente: Home`](../Readme.md)

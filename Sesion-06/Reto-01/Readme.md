@@ -1,4 +1,4 @@
-[`React Fundamentals`](../../README.md) > [`Sesión 06: Rutas con react router dom`](../Readme.md) >[`Ejemplo-01`](../Ejemplo-01) > `Reto 1`
+[`React Fundamentals`](../../README.md) > [`Sesión 07: Rutas con react router dom`](../Readme.md) >[`Ejemplo-01`](../Ejemplo-01) > `Reto 1`
 
 ## Palmera
 
@@ -28,3 +28,5 @@
 
 5. Resultado
 <img src="./public/resultado.gif">
+
+[`Siguiente: Home`](../Readme.md)

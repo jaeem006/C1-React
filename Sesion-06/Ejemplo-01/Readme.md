@@ -1,4 +1,4 @@
-[`React Fundamentals`](../../README.md) > [`Sesión 06: Rutas con react router dom`](../Readme.md) > `Ejemplo 1`
+[`React Fundamentals`](../../README.md) > [`Sesión 07: Rutas con react router dom`](../Readme.md) > `Ejemplo 1`
 
 ## Anatomía
 
@@ -24,9 +24,9 @@
 }
 ``` 
 
-4. Ahora vamos a instalar una librería por primera vez. En la consola la instalamos con el comando `npm install react-router-dom` y cuando termine, la comenzamos con `npm start`.
+4. Ahora vamos a instalar una biblioteca por primera vez. En la consola la instalamos con el comando `npm install react-router-dom` y cuando termine, la comenzamos con `npm start`.
 
-5. Importamos los componentes que vamos a necesitar de la librería.
+5. Importamos los componentes que vamos a necesitar de la biblioteca.
 ```
 import { BrowserRouter, Route } from 'react-router-dom';
 ``` 
@@ -151,12 +151,12 @@ const App = () => {
 export default App;
 ```
 
-13. Ahora nuestro `Header.js` es el encargado de llevarnos de una ruta a otra; PEEEERO, si te fijas bien, cada vez que estamos viajando de una ruta a otra, la página se recarga. Y esto esta extremadamente mal. Cuando lleguemos al modulo de `redux` te vas a dar cuenta del porqué.
+13. Ahora nuestro `Header.js` es el encargado de llevarnos de una ruta a otra; PEEEERO, si te fijas bien, cada vez que estamos viajando de una ruta a otra, la página se recarga. Y esto esta extremadamente mal.
 
 14. Esto esta pasando porque usamos el componente anchor `<a />`; pero como nuestro enrutador viene de `react-router-dom`, vamos a usar su componente de ruteo `Link`.
 
 15. Para pasar de `a` a `Link` seguimos 3 pasos:
-   - Importar de librería
+   - Importar de biblioteca
    - Cambiar todos los `<a />` por `<Link />`
    - Cambiar `href` por `to`
 ```
@@ -216,4 +216,4 @@ export default Header;
 24. Resultado:
 <img src="./public/resultado.gif">
 
-[`Siguiente: Reto-01`](../Reto-01)
+[`Siguiente: Reto-01`](../Reto-01/Readme.md)

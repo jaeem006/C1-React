@@ -1,4 +1,4 @@
-[`React Fundamentals`](../../README.md) > [`Sesión 06: Rutas con react router dom`](../Readme.md) > `Ejemplo 2`
+[`React Fundamentals`](../../README.md) > [`Sesión 07: Rutas con react router dom`](../Readme.md) > `Ejemplo 2`
 
 ## Plan de estudios
 
@@ -24,7 +24,7 @@
 
 4. `npm install react-router-dom` y `npm start`.
 
-5. Importamos la librería y hacemos a `BrowserRouter` el padre.
+5. Importamos la biblioteca y hacemos a `BrowserRouter` el padre.
 ```
 import React from 'react';
 import { BrowserRouter, Route } from 'react-router-dom';
@@ -278,8 +278,6 @@ SubtemaViejo.propTypes = {
 export default withRouter(SubtemaViejo);
 ```
 
-24. Pregunta que acaba de pasar y no continúes hasta que lo entiendas al 100%.
-
 25. Qué pasaría si por alguna razón queremos cambiar todas nuestras rutas de `/react/...` por `/planreact/...`. Tendríamos que corregir las rutas en `App.js`, `Header.js` y `PlanReact.js`. No es tan complicado porque son pocos lugares donde hay que corregir, pero imagina que estamos dandole mantenimiento a una aplicación empresarial. La verdad que flojera.
 
 26. Vamos a preparar nuestro sistema para tener que hacer el cambio una sola vez.
@@ -474,4 +472,4 @@ export default App;
 38. Resultado:
 <img src="./public/resultado.gif">
 
-[`Siguiente: Reto-02`](../Reto-02)
+[`Siguiente: Reto-02`](../Reto-02/Readme.md)
