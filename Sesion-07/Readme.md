@@ -35,6 +35,16 @@ A diferencia de una aplicación web que funciona en distintos sistemas operativo
 
 Las aplicaciones web progresivas están a medio camino entre las dos anteriores: son básicamente páginas web, pero mediante el uso de Service Workers y otras tecnologías se comportan más como aplicaciones normales que como aplicaciones web, es decir, pueden seguir ejecutándose en segundo plano sin tener que vivir dentro del navegador. PWA es un término que se da a una nueva generación de aplicaciones que incrementan su funcionalidad, conforme las capacidades del dispositivo en el que se ejecutan e incrementan, de ahí la palabra progresiva.
 
+
+Las principales ventajas de usar PWA son:
+
+- Permite difundir contenido sobre cualquier dispositivo: móvil, tablet, desktop. 
+- Permite a la app adaptarse a la pantalla del usuario, creando así una experiencia única.
+- Todo ocurre a través de la Web. Ninguna descarga es necesaria. La restricción de pasar por las tiendas ya no existe.
+- Puedes interactuar con tu audiencia mandando notificaciones. Los push Web están disponible con Chrome (Desktop y Android), Firefox (Desktop y Android) y Safari (Desktop).
+- Cualquier usuario puede ‘instalarla’ en la pantalla de inicio de su dispositivo. Y es que todos hemos tenido, alguna vez, el móvil al borde de capacidad.
+- El usuario puede seguir consultando tu web, aunque haya perdido la conexión.
+
 En resumen, las aplicaciones web progresivas son una evolución natural de las aplicaciones web que difuminan la barrera entre la web y las aplicaciones, pudiendo realizar tareas que generalmente solo las aplicaciones nativas podían llevar a cabo. Algunos ejemplos son las notificaciones, el funcionamiento sin conexión a Internet o la posibilidad de probar una versión más ligera antes de bajarte una aplicación nativa de verdad.
 
 ## ¿Cómo funciona una PWA?
