@@ -1,4 +1,4 @@
-[`React Fundamentals`](../../README.md) > [`Sesión 07: Progressive web apps (PWA)`](../Readme.md) >[`Ejemplo-01`](../Ejemplo-01) > `Reto 1`
+[`React Fundamentals`](../../README.md) > [`Sesión 08: Progressive web apps (PWA)`](../Readme.md) >[`Ejemplo-01`](../Ejemplo-01) > `Reto 1`
 
 ## ¿Hamburguesas o qué?
 
@@ -10,6 +10,17 @@
 
 #### DESARROLLO
 
+1. Elige el ejemplo que mas te haya gustado de todas las sesiones anteriores. 
+
+2. Configura este ejemplo como una PWA.
+
+3. Usando Netlify sube esta PWA a Internet. 
+
+4. Consúltala e instálala en tu computadora.
+
+[`Siguiente: Fin`](../Readme.md)
+
+<!-- 
 1. Comenzar nuevo proyecto de React con el comando `npx create-react-app reto1`.
 
 2. Seguir las buenas prácticas necesarias para todo lo que hagas.
@@ -65,4 +76,4 @@
 
 11. Hay muchas otra validaciones que se pueden hacer, pero con las mencionadas es suficiente.
 
-12. En dado caso que no hayas completado el reto, ve, analiza, entiende y practica con el resultado que puedes encontrar en esta misma carpeta.
+12. En dado caso que no hayas completado el reto, ve, analiza, entiende y practica con el resultado que puedes encontrar en esta misma carpeta. -->

@@ -1,4 +1,4 @@
-[`React Fundamentals`](../../README.md) > [`Sesión 07: Progressive web apps (PWA)`](../Readme.md) > `Ejemplo 1`
+[`React Fundamentals`](../../README.md) > [`Sesión 08: Progressive web apps (PWA)`](../Readme.md) > `Ejemplo 1`
 
 ## ¡Wooow!
 
@@ -13,7 +13,7 @@
 
 1. Comenzar nuevo proyecto de React con el comando `npx create-react-app todo-pwa`.
 
-2. Seguir las instrucciones para [configurar una PWA](../../BuenasPracticas/PWA/Readme.md).
+2. Seguir las instrucciones para [configurar una PWA](../../BuenasPracticas/PWA/Readme2.md).
 
 3. Todas estas configuraciones nunca las vamos a ver en acción mientras estemos trabajando en desarrollo (`npm start` en `localhost:3000`). Solo van a poder ser visibles cuando la app este en producción (tenga su propio url).
 
@@ -70,4 +70,4 @@
 25. Abre el url de la app y listo, ya tenemos nuestra React PWA en internet.
 <img src="./img/9.png" width="500">
 
-[`Siguiente: Reto-01`](../Reto-01)
+[`Siguiente: Reto-01`](../Reto-01/Readme.md)
